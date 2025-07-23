@@ -1,0 +1,10 @@
+trigger:
+  - main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+  - script: echo "Building Spring Boot app..."
+  - script: echo "Creating Docker image..."
+  - script: echo "Pushing image to Azure Container Registry..."
