@@ -55,6 +55,10 @@ It provides:
 
 ---
 
+[<img width="720" height="353" alt="image" src="https://github.com/user-attachments/assets/3965e738-a7bc-4c75-9ed3-7c72abb34ae5" />
+]([(https://thomasthornton.cloud/2022/01/26/deploy-to-azure-container-instance-from-azure-container-registry-using-a-ci-cd-azure-devops-pipeline-and-terraform/)](https://thomasthornton.cloud/2022/01/26/deploy-to-azure-container-instance-from-azure-container-registry-using-a-ci-cd-azure-devops-pipeline-and-terraform/))
+
+
 ## 📜 Project Overview
 This project simulates the process of automating containerized application deployment with Azure services. It shows how:
 
